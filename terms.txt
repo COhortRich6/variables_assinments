@@ -1,0 +1,39 @@
+● Function:a block of code that can be ran later on instead of at the 
+percise moment 
+
+
+
+● Function
+Declaration: tells the compiller the info of a function 
+
+
+
+● Function Call: The function call evaluates to a value, as in SquareRoot
+
+
+
+● Arguments: wyas to provide more information/data 
+
+
+
+● Type Casting: when you rea assign a data type to a new type of data
+
+
+
+● Implicit 
+Conversion: the sequince of conversions needed to convert an argumant 
+
+
+
+● Explicit
+Converstion*: a method of informing the compiler that the application is 
+attempting to do a conversion while aware of the potential for data loss.
+
+
+
+● Modulo: the didvided remainder of two integers 
+
+
+
+● Constant: a value that cannot be changed even while the programm is being 
+ran
